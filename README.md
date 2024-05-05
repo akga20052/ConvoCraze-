@@ -1,6 +1,6 @@
 # ConvoCraze
 
-ConvoCraze is a chat application that allows users to communicate in real-time. All of these users work at ConvoCraze.
+ConvoCraze is a chat application that allows users to communicate in real-time.
 
 ## Features
 
